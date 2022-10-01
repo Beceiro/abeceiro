@@ -1,0 +1,80 @@
+.navbar-nav {
+    margin-right: -100px;
+    margin-left: 350px;
+    font-size: 18px
+}
+
+#logo {
+    margin: auto;
+}
+
+#textlogo {
+    margin: auto;
+    font-size: 23px
+}
+
+#tkts {
+    color:MediumSeaGreen;
+}
+
+#bg {
+    position: relative;
+    margin: auto;
+    max-width: 100%;
+    padding: 0px;
+    background-size: cover;
+}
+
+#banner {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 800px;
+}
+
+.banner {
+    background-image: linear-gradient(to right, rgb(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://i.postimg.cc/9X6KDJDP/ba1.jpg);
+    background-size: cover;
+    position: relative;
+    text-align: right;
+    max-width: 100%;
+}
+
+.speaker {
+    margin: 20px;
+    margin-inline: 150px;
+}
+
+.row {
+    display: flex;
+}
+
+.row.gx-0 {
+    width: auto;
+    padding-bottom: 30px;
+    margin-inline: -10px;
+    padding-inline: -20px;
+}
+
+#moreinfo {
+    padding: 40px;
+    margin-inline: -20px;
+    padding-inline: -20px;
+    
+}
+
+#col2 {
+    background-image: url(https://i.postimg.cc/PqZ89stn/honolulu.jpg);
+    background-size:cover;
+    background-position-x: center;
+    background-position-y: center;
+    height: 550px;
+    max-width: 100%;
+    margin-inline: -10px;
+    padding-inline: -20px;  
+}
+
+#conv {
+    padding: 0px;
+    margin: 0%;
+}
